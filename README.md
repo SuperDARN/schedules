@@ -1,3 +1,18 @@
+### Contents
+
+1. [Introduction](https://github.com/SuperDARN/schedules#introduction)
+2. [Operating Categories](https://github.com/SuperDARN/schedules#operating-categories)
+3. [Radar Scheduling Procedure](https://github.com/SuperDARN/schedules#radar-scheduling-procedure)
+4. [Schedule Format](https://github.com/SuperDARN/schedules#schedule-format)
+5. [Common Time Programs](https://github.com/SuperDARN/schedules#common-time-programs)
+6. [Historical Notes / "Unwritten Rules"](https://github.com/SuperDARN/schedules#historical-notes--unwritten-rules)
+
+The official SuperDARN Scheduling Working Group (SWG) website can be found at:
+
+http://superdarn.thayer.dartmouth.edu/wg-scd.html
+
+### 1. Introduction
+
 The SuperDARN Scheduling Working Group (SWG) is responsible for the 
 preparation of a detailed operating plan for each month which is
 allocated between Common Time, Special Time, and Discretionary Time.
@@ -8,7 +23,7 @@ resonsible for the implementation of the schedule on the radars under his
 or her control.
 
 
-### Operating Categories
+### 2. Operating Categories
 
 Three categories of SuperDARN operational time and their monthly allocation
 have been defined:
@@ -46,7 +61,7 @@ is released to the SuperDARN community 4 weeks prior to the first day
 of the month in which the schedule will operate.   
 
 
-### Radar Scheduling Procedure
+### 3. Radar Scheduling Procedure
 
 Here are the details of the radar scheduling processes as outlined in
 the PI agreement (**T** refers to the first day of the month in which
@@ -62,7 +77,41 @@ the schedule will operate):
   released by e-mail to whole SuperDARN community.
 
 
-### Common Time Programs
+### 4. Schedule Format
+
+The schedule file format has remained largely unchanged since the
+creation of SuperDARN. Below is an excerpt from a monthly schedule
+file for October 2019 (`201910.swg`):
+
+```
+October 2019
+01:00    04:00    Discretionary Time
+04:00    07:00    Common Time (1-min) (no switching)
+07:00    08:00    Special Time (see Note A)
+...
+30:00    31:24    Common Time (1-min)
+
+# Total Common Time (1-min):  16d  0h
+# Total Discretionary Time:  9d  0h
+# Total Special Time:  6d  0h
+
+# Notes:
+
+Special Time notes:
+
+Note A: This time covers the 'Pulsating Aurora' request ...
+```
+
+The first line of each schedule file indicates the month and year. From
+the second line onwards, each new line gives the start day, start hour,
+end day, and end hour of a unique operating category (Common, Special, or
+Discretionary Time). This schedule format continues until reaching 24:00 UT
+on the final day of the month.  The total number of days and hours
+allocated to each operating category are then listed, followed by any
+notes regarding a particular Special or Discretionary Time interval.
+
+
+### 5. Common Time Programs
 
 The Common Time program (CP) has changed since the original PI agreement.
 The aim is to retain standardization and compatibility of radar data for
@@ -148,7 +197,7 @@ derived parameters (e.g., Doppler velocity, spectral width) do not fall
 below common standards as a result of running unorthodox operating modes.
 
 
-### Historical Notes / "Unwritten Rules"
+### 6. Historical Notes / "Unwritten Rules"
 
 Here are notes on a few historical decisions regarding the scheduling
 methodology which do not appear in any official documentation (such as
@@ -164,7 +213,10 @@ the SuperDARN PI Agreement).
   and one day of high time resolution (HTR) Common Time would be
   scheduled where no frequency switching shall be performed (radars can
   still switch between day and night frequencies). This practice
-  began with the August 2002 schedule and continues today.
+  began with the August 2002 schedule and continued until the August
+  2018 schedule, when the SWG decided to increase the amount of no
+  frequency switching time from 2 days per month to be half the total
+  Common Time allocation.
 - **THEMIS mode** - Following discussions at the 2008 SD Workshop
   in Newcastle, Australia it was decided that themisscan be classified
   as a Common Time mode. This practice began with the August 2008
