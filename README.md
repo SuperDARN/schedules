@@ -33,7 +33,8 @@ have been defined:
    An interval of concurrent operation of all SuperDARN radars to produce
    an identical type of data product (e.g. defined by viewing area, and
    range and time resolution).  The current Common Time Programs (CPs)
-   are defined in Appendix 4 of the PI Agreement (copied below).
+   are defined in Appendix 4 of the PI Agreement
+   ([copied below](https://github.com/SuperDARN/schedules#5-common-time-programs)).
 
 2. Special Time (maximum of 20%)
 
@@ -54,7 +55,8 @@ have been defined:
 
 The SWG will determine the schedule based upon requests submitted more
 than 8 weeks prior to the first day of the month in which the schedule
-will operate (see below).  Conflicts in scheduling will be resolved,
+will operate ([see below](https://github.com/SuperDARN/schedules#3-radar-scheduling-procedure)).
+Conflicts in scheduling will be resolved,
 firstly, by equity in fulfilling requests and, secondly, by scientific
 merit.  PIs will have one week to approve this draft schedule before it
 is released to the SuperDARN community 4 weeks prior to the first day
