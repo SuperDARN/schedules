@@ -4,8 +4,8 @@
 2. [Operating Categories](https://github.com/SuperDARN/schedules#2-operating-categories)
 3. [Radar Scheduling Procedure](https://github.com/SuperDARN/schedules#3-radar-scheduling-procedure)
 4. [Schedule Format](https://github.com/SuperDARN/schedules#4-schedule-format)
-5. [Common Time Programs](https://github.com/SuperDARN/schedules#5common-time-programs)
-6. [Historical Notes / "Unwritten Rules"](https://github.com/SuperDARN/schedules#6historical-notes--unwritten-rules)
+5. [Common Time Programs](https://github.com/SuperDARN/schedules#5-common-time-programs)
+6. [Historical Notes / "Unwritten Rules"](https://github.com/SuperDARN/schedules#6-historical-notes--unwritten-rules)
 
 The official SuperDARN Scheduling Working Group (SWG) website can be found at:
 
