@@ -15,7 +15,7 @@ November 2019
 28:06    29:06    Special Time (see Note A)
 29:06    30:00    Common Time (1-min) (no switching)
 30:00    30:18    Special Time (see Note A)
-30:00    30:24    Common Time (1-min)
+30:18    30:24    Common Time (1-min)
 
 # Total Common Time (1-min):  15d  12h
 # Total Discretionary Time:  9d  0h
