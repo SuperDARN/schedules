@@ -20,4 +20,4 @@ November 2006
 25:18    26:12    HTR Common Time (1 minute) [Cluster *]
 26:12    28:00    Common Time
 28:00    29:00    HTR Common Time (1 minute) [Cluster ]
-29:00    31:14    Common Time
+29:00    30:24    Common Time
