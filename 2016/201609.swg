@@ -5,8 +5,7 @@ September 2016
   [  BKS  CVE  FHE  KAP  STO  WAL  ]  {rbspscan  normalscan}
 07:10    08:08    Common Time (1-min)
 08:08    08:14    Special Time (ST-APOG) (see Note A)
-  [  ADE  BKS  CVE  CVW  FHW  PGR  SAS  BPK  DCE  SPS  ]  {rbspscan
- normalscan}
+  [  ADE  BKS  CVE  CVW  FHW  PGR  SAS  BPK  DCE  SPS  ]  {rbspscan  normalscan}
 08:14    10:04    Common Time (1-min)
 10:04    10:10    Special Time (ST-APOG) (see Note A)
   [  BKS  CVE  FHE  KAP  STO  WAL  ]  {rbspscan  normalscan}
