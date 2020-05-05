@@ -36,3 +36,8 @@ January 2006
 29:12    29:18    HTR Common Time (1 minute) [Cluster ]
 29:18    31:12    Discretionary Time [Alaska, Leicester]
 31:12    31:24    Common Time
+
+# Total Common time:  12 d 0 h
+# Total Discr time:   9 d 6 h
+# Total HTR time:     9 d 18 h
+# Total Special time: 0 d 0 h

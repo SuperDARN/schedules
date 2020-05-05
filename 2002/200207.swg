@@ -1,7 +1,7 @@
 July 2002
 01:00    02:00    Common Time
 02:00    04:00    HTR Common Time (1 minute) [Cluster]
-04:00   12:00    Discretionary Time [Nipr]
+04:00    12:00    Discretionary Time [Nipr]
 12:00    13:00    HTR Common Time (1 minute) [Cluster]
 13:00    16:00    Special Time [PMSE]
 16:00    17:00    HTR Common Time (1 minute) [Cluster]

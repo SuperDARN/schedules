@@ -31,3 +31,8 @@ April 2005
 28:12    30:00    Common Time
 30:00    30:18    HTR Common Time (1 minute) [Cluster *]
 30:18    30:24    Common Time
+
+# Total Common time:  12 d 0 h
+# Total Discr time:   9 d 4 h
+# Total HTR time:     8 d 20 h
+# Total Special time: 0 d 0 h

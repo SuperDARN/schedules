@@ -11,3 +11,8 @@ August 2006
 28:00    29:00    HTR Common Time (1 minute) [Cluster ] (no switching)
 29:00    30:00    Common Time (no switching)
 30:00    31:24    Common Time
+
+# Total Common time:  12 d 0 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     10 d 0 h
+# Total Special time: 0 d 0 h

@@ -23,3 +23,8 @@ July 2006
 25:00    26:12    HTR Common Time (1 minute) [Cluster *]
 26:12    31:12    Discretionary Time
 31:12    31:24    Common Time
+
+# Total Common time:  11 d 0 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     11 d 0 h
+# Total Special time: 0 d 0 h

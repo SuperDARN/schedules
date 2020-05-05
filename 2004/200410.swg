@@ -30,3 +30,8 @@ October 2004
 28:00    29:00    Common Time (no switching)
 29:00    30:12    HTR Common Time (1 minute) [Cluster *]
 30:12    31:24    Common Time
+
+# Total Common time:  12 d 22 h
+# Total Discr time:   8 d 22 h
+# Total HTR time:     9 d 4 h
+# Total Special time: 0 d 0 h

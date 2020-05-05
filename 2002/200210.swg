@@ -1,5 +1,5 @@
 October 2002
-01:00   05:00    Discretionary Time [Leicester; Wright; Yeoman]
+01:00    05:00    Discretionary Time [Leicester; Wright; Yeoman]
 05:00    06:00    HTR Common Time (1 minute) [Cluster]
 06:00    07:00    Common Time
 07:00    08:00    HTR Common Time (1 minute) [Cluster]

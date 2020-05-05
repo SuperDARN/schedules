@@ -27,3 +27,8 @@ January 2003
 27:16    31:00    Discretionary Time
 31:00    31:16    HTR Common Time (1 minute) [Cluster]
 31:16    31:24    HTR Common Time (1 minute)
+
+# Total Common time:  13 d 0 h
+# Total Discr time:   8 d 20 h
+# Total HTR time:     9 d 4 h
+# Total Special time: 0 d 0 h

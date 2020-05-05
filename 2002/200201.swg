@@ -27,3 +27,11 @@ January 2002
 27:02    27:20    HTR Common Time (1 minute) [Cluster]
 27:20    31:00    Discretionary Time [Nipr 2]
 31:00    31:24    Common Time
+
+
+with the following four requests:
+
+-Cluster
+-Leicester [ESR/Spacecraft]
+-Nipr1 [Pc4-5/Geotail]
+-Nipr2 [Mesosphere Echoes]

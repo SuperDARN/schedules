@@ -19,3 +19,8 @@ December 2006
 24:18    26:12    HTR Common Time (1 minute)
 26:12    27:00    HTR Common Time (1 minute) [Cluster *]
 27:00    31:24    Discretionary Time {Australia]
+
+# Total Common time:  13 d 22 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     8 d 2 h
+# Total Special time: 0 d 0 h

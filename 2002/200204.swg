@@ -27,3 +27,6 @@ April 2002
 28:06    30:08    Common Time
 30:08    30:18    HTR Common Time (1 minute) [Cluster]
 30:18    30:24    Common Time
+
+
+*red Cluster periods have higher priority.

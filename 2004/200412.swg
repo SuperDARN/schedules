@@ -34,3 +34,8 @@ December 2004
 27:22    30:00    Common Time
 30:00    31:00    HTR Common Time (1 minute) [Cluster *]
 31:00    31:24    Common Time
+
+# Total Common time:  13 d 16 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     8 d 8 h
+# Total Special time: 0 d 0 h

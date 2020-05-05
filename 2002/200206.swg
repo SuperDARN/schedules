@@ -2,8 +2,8 @@ June 2002
 01:00    04:04    Common Time
 04:04    05:10    HTR Common Time (1 minute) [Cluster]
 05:10    07:00    Common Time
-07:00   13:00    Discretionary Time [Nipr]
-13:00   15:20    Discretionary Time
+07:00    13:00    Discretionary Time [Nipr]
+13:00    15:20    Discretionary Time
 15:20    17:10    HTR Common Time (1 minute) [Cluster]
 17:10    18:04    Common Time
 18:04    19:20    HTR Common Time (1 minute) [Cluster]
@@ -14,3 +14,8 @@ June 2002
 25:00    27:00    Common Time
 27:00    29:00    HTR Common Time (1 minute) [Cluster]
 29:00    30:24    Common Time
+
+
+Could those radars, that do not participate in the DT Nipr
+campaign [7-13], please run HTR mode for Cluster support
+from 08:20 to 10:04, if possible.

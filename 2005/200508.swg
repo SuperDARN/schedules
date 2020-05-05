@@ -15,3 +15,8 @@ August 2005
 25:18    27:00    HTR Common Time (1 minute) [Cluster ]
 27:00    31:00    Discretionary Time
 31:00    31:24    HTR Common Time (1 minute) [Cluster ]
+
+# Total Common time:  10 d 10 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     11 d 14 h
+# Total Special time: 0 d 0 h

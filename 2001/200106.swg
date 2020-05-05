@@ -22,3 +22,15 @@ June 2001
 28:00    28:14    Common Time
 28:14    28:20    HTR Common Time (1 minute) [Cluster]
 28:20    31:24    Common Time
+
+
+During the Discretionary Time from the 18th to 25th June
+time there were also some requests for Cluster support.
+Could radars not involved in the Nipr campaign please
+switch into HTR mode on a best effort basis for those
+intervals:
+
+19/6/2001 0800-1400
+20/6/2001 0000-0800
+21/6/2001 1600-2200
+23/6/2001 1800-2200

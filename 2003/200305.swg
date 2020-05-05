@@ -23,3 +23,8 @@ May 2003
 22:12    23:14    HTR Common Time (1 minute) [Cluster *]
 23:14    25:00    Discretionary Time
 25:00    31:24    Discretionary Time [Nipr ]
+
+# Total Common time:  14 d 0 h
+# Total Discr time:   8 d 10 h
+# Total HTR time:     8 d 14 h
+# Total Special time: 0 d 0 h

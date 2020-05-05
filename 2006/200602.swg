@@ -37,3 +37,8 @@ February 2006
 27:18    28:00    Common Time
 28:00    28:12    Discretionary Time [HAARP]
 28:12    28:24    Common Time
+
+# Total Common time:  11 d 2 h
+# Total Discr time:   9 d 0 h
+# Total HTR time:     7 d 22 h
+# Total Special time: 0 d 0 h

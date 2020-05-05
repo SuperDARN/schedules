@@ -19,3 +19,8 @@ September 2006
 29:00    29:10    Special Time [Themis]
 29:10    29:22    HTR Common Time (1 minute) [Cluster ]
 29:22    30:24    Common Time
+
+# Total Common time:  14 d 2 h
+# Total Discr time:   8 d 20 h
+# Total HTR time:     6 d 6 h
+# Total Special time: 0 d 20 h

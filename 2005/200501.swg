@@ -22,3 +22,8 @@ January 2005
 25:16    27:06    Common Time
 27:06    27:18    HTR Common Time (1 minute) [Cluster]
 27:18    31:24    Discretionary Time
+
+# Total Common time:  13 d 18 h
+# Total Discr time:   9 d 6 h
+# Total HTR time:     8 d 0 h
+# Total Special time: 0 d 0 h

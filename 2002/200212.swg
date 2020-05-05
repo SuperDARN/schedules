@@ -54,3 +54,17 @@ December 2002
 29:00    29:14    HTR Common Time (1 minute) [Cluster]
 29:14    31:00    Common Time
 31:00    31:24    HTR Common Time (1 minute) [Cluster]
+
+
+The Leicester DT intervals are used for a rocket launch.
+Some of those intervals [marked with o] conflict with
+important Cluster passes. Tim Yeoman has agreed to fall
+back to HTR mode, if it is clear, that the rocket will
+not be launched during this interval. Could the rest of
+you please try to also run HTR mode during these Cluster
+intervals:
+
+03:08 - 03:12
+05:08 - 05:12
+10:08 - 10:12
+14:08 - 14:12
