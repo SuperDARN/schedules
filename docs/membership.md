@@ -15,11 +15,11 @@ interested in joining the working group as either a member or observer.
 
 | Name             | Institution                                 | Radars                  |
 |------------------|:-------------------------------------------:|:-----------------------:|
+| Marci Detwiller  | University of Saskatchewan, Canada          | cly inv pgr rkn sas     |
 | Peter Dyson      | La Trobe University, Australia              | bpk tig unw             |
 | Tomoaki Hori     | Nagoya University, Japan                    |                         |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                         |
 | Bryant Klug      | University of Alaska Fairbanks, USA         | ade adw kod mcm sps     |
-| Kevin Krieger    | University of Saskatchewan, Canada          | cly inv pgr rkn sas     |
 | Jianjun Liu      | Polar Research Institute of China           | zho                     |
 | Takahiro Naoi    | NICT, Japan                                 |                         |
 | Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap sto |
