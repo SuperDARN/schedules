@@ -34,6 +34,7 @@ interested in joining the working group as either a member or observer.
 | Bill Bristow          | University of Alaska Fairbanks, USA         |         |
 | Gareth Chisham        | British Antarctic Survey, UK                | fir     |
 | Mike Kosch            | South African National Space Agency         |         |
+| Kevin Krieger         | University of Saskatchewan, Canada          |         |
 | Mark Lester           | University of Leicester, UK                 |         |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker     |
 | Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn |
