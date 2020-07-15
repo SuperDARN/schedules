@@ -4,21 +4,23 @@ This document contains information about the allocation of radar control
 program identifiers, or CPIDs. A database of CPIDs is currently under
 construction.
 
-| Country/Institution      | Special       | Discretionary   |
-|:------------------------:|:-------------:|:---------------:|
-| Common Programs          | 100 - 999     | -100 - -999     |
-| APL                      | 1000 - 1999   | -1000 - -1999   |
-| British Antarctic Survey | 2000 - 2999   | -2000 - -2999   |
-| Canada                   | 3000 - 3999   | -3000 - -3999   |
-| France                   | 4000 - 4499   | -4000 - -4499   |
-| Italy                    | 4500 - 4999   | -4500 - -4999   |
-| Japan                    | 5000 - 5999   | -5000 - -5999   |
-| Leicester                | 6000 - 6999   | -6000 - -6999   |
-| South Africa             | 7000 - 7499   | -7000 - -7499   |
-| Norway                   | 7500 - 7999   | -7500 - -7999   |
-| Australia                | 8000 - 8999   | -8000 - -8999   |
-| Alaska                   | 9000 - 9999   | -9000 - -9999   |
-| NICT                     | 10000 - 10999 | -10000 - -10999 |
+| Country/Institution             | Special       | Discretionary   |
+|:-------------------------------:|:-------------:|:---------------:|
+| Common Programs                 |   100 -   999 |   -100 -   -999 |
+| APL / Dartmouth / Virginia Tech |  1000 -  1999 |  -1000 -  -1999 |
+| BAS / Lancaster                 |  2000 -  2999 |  -2000 -  -2999 |
+| Canada                          |  3000 -  3999 |  -3000 -  -3999 |
+| France / Italy                  |  4000 -  4999 |  -4000 -  -4999 |
+| NIPR                            |  5000 -  5999 |  -5000 -  -5999 |
+| Leicester                       |  6000 -  6999 |  -6000 -  -6999 |
+| South Africa                    |  7000 -  7499 |  -7000 -  -7499 |
+| Norway                          |  7500 -  7999 |  -7500 -  -7999 |
+| Australia                       |  8000 -  8999 |  -8000 -  -8999 |
+| Alaska                          |  9000 -  9999 |  -9000 -  -9999 |
+| NICT / Nagoya                   | 10000 - 10999 | -10000 - -10999 |
+| NSSC, CAS                       | 11000 - 11999 | -11000 - -11999 |
+| PRIC                            | 12000 - 12999 | -12000 - -12999 |
+| Stereo Programs                 | 20000 - 29999 | -20000 - -29999 |
 
 This more detailed information is originally extracted from:
 
