@@ -19,7 +19,6 @@ interested in joining the working group as either a member or observer.
 | Peter Dyson      | La Trobe University, Australia              | bpk tig unw             |
 | Tomoaki Hori     | Nagoya University, Japan                    |                         |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                         |
-| Bryant Klug      | University of Alaska Fairbanks, USA         | ade adw kod mcm sps     |
 | Jianjun Liu      | Polar Research Institute of China           | zho                     |
 | Takahiro Naoi    | NICT, Japan                                 |                         |
 | Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap sto |
@@ -31,14 +30,14 @@ interested in joining the working group as either a member or observer.
 
 | Name                  | Institution                                 | Radars  |
 |-----------------------|:-------------------------------------------:|:-------:|
-| Bill Bristow          | University of Alaska Fairbanks, USA         |         |
+| Bill Bristow          | Penn State University, USA                  | ade adw kod mcm sps |
+| Alex Chartier         | JHU/APL, USA                                | wal     |
 | Gareth Chisham        | British Antarctic Survey, UK                | fir     |
 | Mike Kosch            | South African National Space Agency         |         |
 | Kevin Krieger         | University of Saskatchewan, Canada          |         |
 | Mark Lester           | University of Leicester, UK                 |         |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker     |
 | Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn |
-| Alex Chartier         | JHU/APL, USA                                | wal     |
 | Kathryn McWilliams    | University of Saskatchewan, Canada          |         |
 | Tsutomu Nagatsuma     | NICT, Japan                                 | ksr     |
 | Nozomu Nishitani      | Nagoya University, Japan                    | hok hkw |
