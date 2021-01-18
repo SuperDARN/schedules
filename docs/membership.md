@@ -15,10 +15,10 @@ interested in joining the working group as either a member or observer.
 
 | Name             | Institution                                 | Radars                  |
 |------------------|:-------------------------------------------:|:-----------------------:|
-| Marci Detwiller  | University of Saskatchewan, Canada          | cly inv pgr rkn sas     |
 | Peter Dyson      | La Trobe University, Australia              | bpk tig unw             |
 | Tomoaki Hori     | Nagoya University, Japan                    |                         |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                         |
+| Kevin Krieger    | University of Saskatchewan, Canada          | cly inv pgr rkn sas     |
 | Jianjun Liu      | Polar Research Institute of China           | zho                     |
 | Takahiro Naoi    | NICT, Japan                                 |                         |
 | Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap sto |
@@ -34,7 +34,6 @@ interested in joining the working group as either a member or observer.
 | Alex Chartier         | JHU/APL, USA                                | wal     |
 | Gareth Chisham        | British Antarctic Survey, UK                | fir     |
 | Mike Kosch            | South African National Space Agency         |         |
-| Kevin Krieger         | University of Saskatchewan, Canada          |         |
 | Mark Lester           | University of Leicester, UK                 |         |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker     |
 | Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn |
