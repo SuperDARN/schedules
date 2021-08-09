@@ -8,6 +8,6 @@ September 2021
 22:00    24:00    Common Time (1-min)
 24:00    30:24    Common Time (1-min) (no switching)
 
-# Total Common Time (1-min):  22d  0h
+# Total Common Time (1-min):  21d  0h
 # Total Discretionary Time:  9d  0h
 # Total Special Time:  0d  0h
