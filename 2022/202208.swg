@@ -11,6 +11,8 @@ August 2022
 # Total Discretionary Time:  9d  0h
 # Total Special Time:  0d  0h
 
+# Notes:
+
 Note A: This time covers the 'normalsound' Common Time
 request (Holmes). All radars are requested to run the *REVISED*
 'normalsound' radar control program.
