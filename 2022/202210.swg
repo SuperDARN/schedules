@@ -27,7 +27,7 @@ October 2022
 
 # Notes:
 
-Note A: ARASE - This is a spacecraft working group request to support the
-ARASE/ERG mission. All radars should run interleaved_normalscan (a full
-scan of at least 16 beams with a non-sequential manner that interleaves the
-beam number, with a scan time of 1-min).
+Note A: This is a spacecraft working group request to support the ARASE/ERG
+mission. All radars should run interleaved_normalscan (a full scan of at
+least 16 beams with a non-sequential manner that interleaves the beam number,
+with a scan time of 1-min).
