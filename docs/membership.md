@@ -27,22 +27,22 @@ interested in joining the working group as either a member or observer.
 
 ### Observers
 
-| Name                  | Institution                                 | Radars  |
-|-----------------------|:-------------------------------------------:|:-------:|
-| Bill Bristow          | Penn State University, USA                  |         |
-| Alex Chartier         | JHU/APL, USA                                | wal     |
-| Gareth Chisham        | British Antarctic Survey, UK                | fir     |
-| Mike Kosch            | South African National Space Agency         |         |
-| Mark Lester           | University of Leicester, UK                 |         |
-| Aurélie Marchaudon    | IRAP/CNRS, France                           | ker     |
-| Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn |
-| Kathryn McWilliams    | University of Saskatchewan, Canada          |         |
-| Nozomu Nishitani      | Nagoya University, Japan                    | hok hkw |
-| Mike Ruohoniemi       | Virginia Tech, USA                          |         |
-| Simon Shepherd        | Dartmouth College, USA                      | cve cvw |
-| Tim Yeoman            | University of Leicester, UK                 | han     |
-| Akira Sessai Yukimatu | National Institute of Polar Research, Japan | sye sys |
-| Jiaojiao Zhang        | National Space Science Center, China        | jme     |
+| Name                  | Institution                                 | Radars          |
+|-----------------------|:-------------------------------------------:|:---------------:|
+| Bill Bristow          | Penn State University, USA                  |                 |
+| Alex Chartier         | JHU/APL, USA                                | wal             |
+| Gareth Chisham        | British Antarctic Survey, UK                | fir             |
+| Mike Kosch            | South African National Space Agency         |                 |
+| Mark Lester           | University of Leicester, UK                 |                 |
+| Aurélie Marchaudon    | IRAP/CNRS, France                           | ker             |
+| Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn         |
+| Kathryn McWilliams    | University of Saskatchewan, Canada          |                 |
+| Nozomu Nishitani      | Nagoya University, Japan                    | hok hkw         |
+| Mike Ruohoniemi       | Virginia Tech, USA                          |                 |
+| Simon Shepherd        | Dartmouth College, USA                      | cve cvw ice icw |
+| Tim Yeoman            | University of Leicester, UK                 | han             |
+| Akira Sessai Yukimatu | National Institute of Polar Research, Japan | sye sys         |
+| Jiaojiao Zhang        | National Space Science Center, China        | jme             |
 
 ### Past Chairs
 
