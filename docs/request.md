@@ -9,34 +9,40 @@ Scheduling Procedure for additional details.
 
 ---
 
-SUPERDARN TIME ALLOCATION REQUEST
+SUPERDARN TIME ALLOCATION REQUEST FORM
 
-MONTH:
+EXPERIMENT PI: *[person requesting the experiment]*
 
-PERIOD (DATES, TIMES):
+REQUESTING INSTITUTE: *[institution of experiment PI]*
 
-RADARS:
+EXPERIMENT TITLE:
 
-CLASS (Special time, Discretionary time):
+MONTH: *[month (and year) of request, e.g. January 2XXX]*
 
-INSTITUTE:
-
-PIs:
-
-SCIENTIST:
-
-COLLABORATORS (Outside of SD):
-
-PROGRAMME TITLE:
-
-SCIENTIFIC CASE:
+PERIOD: *[dates and UT intervals of request]*
 
 EXPERIMENT OBJECTIVES:
 
-REASONS FOR TIME PERIOD REQUESTED (Supporting campaigns, instrumentation, geophysical conditions):
+SCIENTIFIC JUSTIFICATION: *[including supporting campaigns, geophysical conditions, etc.]*
 
-COULD EXPERIMENT BE RUN AT ANOTHER TIME (YES/NO):
+COLLABORATORS: *[list of experiment collaborators]*
 
-RADLANG PROGRAMMES TO BE RUN AND BRIEF DESCRIPTION OF SOUNDING MODE:
+RESPONSIBLE SUPERDARN PI: *[a SuperDARN PI who can speak for this experiment]*
+
+RADARS: *[radar names or IDs for which experiment is requested]*
+
+CONTROL PROGRAMS TO BE RUN: *[a brief description is required for new or non-standard radar operating modes]*
+
+*** NEW REQUEST ***  
+RADAR(S) CONTROL PROGRAM HAS BEEN TESTED ON: *[which radar(s) has the new control program been successfully run on?]*
+
+*[Provide initial analysis and justification the control program is scientifically useful.]*
+
+*** REPEAT REQUEST ***  
+*[Provide justification for continuing to schedule this experiment, including evidence that data has been analyzed and control program is scientifically useful.]*
+
+COULD EXPERIMENT BE RUN AT ANOTHER TIME: *[Yes or No]*
+
+Please contact the responsible SuperDARN PI with any questions about this form.
 
 END OF FORM
