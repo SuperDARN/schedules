@@ -19,7 +19,6 @@ interested in joining the working group as either a member or observer.
 | Tomoaki Hori     | Nagoya University, Japan                    |                     |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                     |
 | Kevin Krieger    | University of Saskatchewan, Canada          | cly inv pgr rkn sas |
-| Jianjun Liu      | Polar Research Institute of China           | zho                 |
 | David Miller     | Penn State University, USA                  | kod ksr mcm sps     |
 | Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap |
 | Mikko Syrjäsuo   | University Centre in Svalbard, Norway       | lyr                 |
@@ -34,6 +33,7 @@ interested in joining the working group as either a member or observer.
 | Gareth Chisham        | British Antarctic Survey, UK                | fir             |
 | Mike Kosch            | South African National Space Agency         |                 |
 | Mark Lester           | University of Leicester, UK                 |                 |
+| Jianjun Liu           | Polar Research Institute of China           | zho             |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker             |
 | Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn         |
 | Kathryn McWilliams    | University of Saskatchewan, Canada          |                 |
