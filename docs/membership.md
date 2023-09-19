@@ -18,8 +18,8 @@ interested in joining the working group as either a member or observer.
 | Peter Dyson      | La Trobe University, Australia              | bpk tig             |
 | Tomoaki Hori     | Nagoya University, Japan                    |                     |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                     |
-| Kevin Krieger    | University of Saskatchewan, Canada          | cly inv pgr rkn sas |
 | David Miller     | Penn State University, USA                  | kod ksr mcm sps     |
+| Remington Rohel  | University of Saskatchewan, Canada          | cly inv pgr rkn sas |
 | Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap |
 | Mikko Syrjäsuo   | University Centre in Svalbard, Norway       | lyr                 |
 | Jon Ward         | South African National Space Agency         | san                 |
