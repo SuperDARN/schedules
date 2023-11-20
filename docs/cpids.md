@@ -1,8 +1,10 @@
 ## Control Program IDs
 
 This document contains information about the allocation of radar control
-program identifiers, or CPIDs. A database of CPIDs is currently under
-construction.
+program identifiers, or CPIDs. A searchable CPID database is now available
+here:
+
+https://egthomas.host.dartmouth.edu/cpid_db.html
 
 | Country/Institution             | Special       | Discretionary   |
 |:-------------------------------:|:-------------:|:---------------:|
@@ -16,7 +18,7 @@ construction.
 | South Africa                    |  7000 -  7499 |  -7000 -  -7499 |
 | Norway                          |  7500 -  7999 |  -7500 -  -7999 |
 | Australia                       |  8000 -  8999 |  -8000 -  -8999 |
-| Alaska                          |  9000 -  9999 |  -9000 -  -9999 |
+| Alaska / Penn State             |  9000 -  9999 |  -9000 -  -9999 |
 | NICT / Nagoya                   | 10000 - 10999 | -10000 - -10999 |
 | NSSC, CAS                       | 11000 - 11999 | -11000 - -11999 |
 | PRIC                            | 12000 - 12999 | -12000 - -12999 |
