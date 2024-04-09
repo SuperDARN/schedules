@@ -13,16 +13,17 @@ interested in joining the working group as either a member or observer.
 
 ### Members
 
-| Name             | Institution                                 | Radars              |
-|------------------|:-------------------------------------------:|:-------------------:|
-| Peter Dyson      | La Trobe University, Australia              | bpk tig             |
-| Tomoaki Hori     | Nagoya University, Japan                    |                     |
-| Keisuke Hosokawa | University of Electro-Communications, Japan |                     |
-| David Miller     | Penn State University, USA                  | kod ksr mcm sps     |
-| Remington Rohel  | University of Saskatchewan, Canada          | cly inv pgr rkn sas |
-| Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap |
-| Mikko Syrjäsuo   | University Centre in Svalbard, Norway       | lyr                 |
-| Jon Ward         | South African National Space Agency         | san                 |
+| Name             | Institution                                 | Radars                      |
+|------------------|:-------------------------------------------:|:---------------------------:|
+| Xiang Deng       | National Space Science Center, China        | hje hjw jme lje ljw sze szw |
+| Peter Dyson      | La Trobe University, Australia              | bpk tig                     |
+| Tomoaki Hori     | Nagoya University, Japan                    |                             |
+| Keisuke Hosokawa | University of Electro-Communications, Japan |                             |
+| David Miller     | Penn State University, USA                  | kod ksr mcm sps             |
+| Remington Rohel  | University of Saskatchewan, Canada          | cly inv pgr rkn sas         |
+| Kevin Sterne     | Virginia Tech, USA                          | bks gbr fhe fhw kap         |
+| Mikko Syrjäsuo   | University Centre in Svalbard, Norway       | lyr                         |
+| Jon Ward         | South African National Space Agency         | san                         |
 
 ### Observers
 
@@ -42,7 +43,7 @@ interested in joining the working group as either a member or observer.
 | Simon Shepherd        | Dartmouth College, USA                      | cve cvw ice icw |
 | Tim Yeoman            | University of Leicester, UK                 | han             |
 | Akira Sessai Yukimatu | National Institute of Polar Research, Japan | sye sys         |
-| Jiaojiao Zhang        | National Space Science Center, China        | jme             |
+| Jiaojiao Zhang        | National Space Science Center, China        |                 |
 
 ### Past Chairs
 
