@@ -16,7 +16,6 @@ interested in joining the working group as either a member or observer.
 | Name             | Institution                                 | Radars                      |
 |------------------|:-------------------------------------------:|:---------------------------:|
 | Xiang Deng       | National Space Science Center, China        | hje hjw jme lje ljw sze szw |
-| Peter Dyson      | La Trobe University, Australia              | bpk tig                     |
 | Tomoaki Hori     | Nagoya University, Japan                    |                             |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                             |
 | David Miller     | Penn State University, USA                  | kod ksr mcm sps             |
@@ -36,11 +35,11 @@ interested in joining the working group as either a member or observer.
 | Mark Lester           | University of Leicester, UK                 |                 |
 | Jianjun Liu           | Polar Research Institute of China           | zho             |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker             |
-| Federica Marcucci     | INAF/IAPS, Italy                            | dce dcn         |
-| Kathryn McWilliams    | University of Saskatchewan, Canada          |                 |
+| Stefano Massetti      | INAF/IAPS, Italy                            | dce dcn         |
 | Nozomu Nishitani      | Nagoya University, Japan                    | hok hkw         |
 | Mike Ruohoniemi       | Virginia Tech, USA                          |                 |
 | Simon Shepherd        | Dartmouth College, USA                      | cve cvw ice icw |
+| Jim Whittington       | La Trobe University, Australia              | bpk tig         |
 | Tim Yeoman            | University of Leicester, UK                 | han             |
 | Akira Sessai Yukimatu | National Institute of Polar Research, Japan | sye sys         |
 | Jiaojiao Zhang        | National Space Science Center, China        |                 |
