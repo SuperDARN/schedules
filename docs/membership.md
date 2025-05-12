@@ -15,6 +15,7 @@ interested in joining the working group as either a member or observer.
 
 | Name             | Institution                                 | Radars                      |
 |------------------|:-------------------------------------------:|:---------------------------:|
+| Jo Cole          | British Antarctic Survey, UK                | fir                         |
 | Xiang Deng       | National Space Science Center, China        | hje hjw jme lje ljw sze szw |
 | Tomoaki Hori     | Nagoya University, Japan                    |                             |
 | Keisuke Hosokawa | University of Electro-Communications, Japan |                             |
@@ -30,7 +31,7 @@ interested in joining the working group as either a member or observer.
 |-----------------------|:-------------------------------------------:|:---------------:|
 | Bill Bristow          | Penn State University, USA                  |                 |
 | Alex Chartier         | JHU/APL, USA                                | wal             |
-| Gareth Chisham        | British Antarctic Survey, UK                | fir             |
+| Gareth Chisham        | British Antarctic Survey, UK                |                 |
 | Mike Kosch            | South African National Space Agency         |                 |
 | Jianjun Liu           | Polar Research Institute of China           | zho             |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker             |
