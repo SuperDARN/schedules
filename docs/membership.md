@@ -32,7 +32,6 @@ interested in joining the working group as either a member or observer.
 | Alex Chartier         | JHU/APL, USA                                | wal             |
 | Gareth Chisham        | British Antarctic Survey, UK                | fir             |
 | Mike Kosch            | South African National Space Agency         |                 |
-| Mark Lester           | University of Leicester, UK                 |                 |
 | Jianjun Liu           | Polar Research Institute of China           | zho             |
 | Aurélie Marchaudon    | IRAP/CNRS, France                           | ker             |
 | Stefano Massetti      | INAF/IAPS, Italy                            | dce dcn         |
