@@ -3,8 +3,7 @@ April 2026
 07:00    10:00    Common Time (1-min) (normalsound) [ALL] (see Note A)
 10:00    14:00    Common Time (1-min)
 14:00    22:00    Common Time (1-min) (interleavescan) [ALL] (see Note B)
-22:00    30:00    Discretionary Time
-30:00    30:24    Common Time (1-min) (no switching)
+22:00    30:24    Discretionary Time
 
 # Total Common Time (1-min):  21d  0h
 # Total Discretionary Time:  9d  0h
